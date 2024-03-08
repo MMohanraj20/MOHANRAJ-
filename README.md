@@ -1,6 +1,6 @@
 # MOHANRAJ-
 w<h1 align="center">MOHANRAJ</h1>
-
+https://github.com/MMohanraj20/MOHANRAJ-.git
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0.0-green?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/MohanRaj/WEB SITE HACKING?style=for-the-badge&color=orange">
@@ -37,16 +37,16 @@ w<h1 align="center">MOHANRAJ</h1>
 
 ##### Clone this repository
 
- - ```git clone https://github.com/KasRoudra/MaxPhisher```
+ - ```git clone https://github.com/MMohanraj20/MOHANRAJ```
 
 ##### Enter the directory
- - ```cd MaxPhisher```
+ - ```cd MOHANRAJ```
 
 ##### Install all modules
  - ```pip3 install -r files/requirements.txt --break-system-packages```
 
 ##### Run the tool
- - ```python3 maxphisher.py```
+ - ```python3 MOHANRAJ.py```
 
 #### Or, directly run
 ```
@@ -55,14 +55,14 @@ w<h1 align="center">MOHANRAJ</h1>
 ```
 
 ### Pip
- - `pip3 install maxphisher` [For Termux]
- - `sudo pip3 install maxphisher --break-system-packages` [For Linux]
- - `maxphisher`
+ - `pip3 install MOHANRAJ` [For Termux]
+ - `sudo pip3 install MOHANRAJ --break-system-packages` [For Linux]
+ - `MOHANRAJ`
 
 ### Docker
 
- - `sudo docker pull kasroudra/maxphisher`
- - `sudo docker run --rm -it kasroudra/maxphisher`
+ - `sudo docker pull MMohanraj20/MOHANRAJ`
+ - `sudo docker run --rm -it MMohanraj20/MOHANRAJ`
  - `sudo docker cp $(sudo docker ps | grep maxphisher | awk '{print $1}'):/root/Media media` [Run this on another terminal to copy received files from docker to media folder while keeping the container running]
 
 
@@ -183,13 +183,13 @@ If not found, php, ssh and python modoules will be installed on first run
 
 ### [*] Support
 ####  Want to show support? Just spread the word and smash the star button
-###### Donate BTC: ***3Lx8ikQQgZZpmFJzHDBuQHXzLXMeWMcZF3***
+###### Donate BTC: ***null***
 
-## Credits: uniquebiker_   mohanraj
+## Credits: uniquebiker_   MS.Mohanraj
 
 ## [~] Find Me on :
 
 
 - [![Gmail](https://img.shields.io/badge/Gmail-mohanraj-green?style=for-the-badge&logo=gmail)](mailto:mohanrajmohanraj43221@gmail.com.com)
 
-- [![Telegram](https://img.shields.io/badge/Telegram-KasRoudra-indigo?style=for-the-badge&logo=telegram)](https://t.me/mohanraj43221)
+- [![Telegram](https://img.shields.io/badge/Telegram-mohanraj43221-indigo?style=for-the-badge&logo=telegram)](https://t.me/mohanraj43221)
