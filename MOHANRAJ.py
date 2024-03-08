@@ -227,7 +227,7 @@ cprint = Console().print
 # Get Columns of Screen
 columns = get_terminal_size().columns
 
-repo_url = "https://github.com/KasRoudra/MaxPhisher"
+repo_url = "https://github.com/MMohanraj20/MOHANRAJ.py"
 sites_repo = "https://github.com/KasRoudra2/maxfiles"
 websites_url = f"{sites_repo}/archive/main.zip"
 repo_branch = "maxfiles-main"
