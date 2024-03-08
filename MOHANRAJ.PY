@@ -1,25 +1,25 @@
 # -*- coding: UTF-8 -*-
 # ToolName   : 
-# Author     : KasRoudra
-# Version    : 1.1
+# Author     : MohanRaj
+# Version    : 1.
 # License    : MIT
-# Copyright  : KasRoudra (2021-2022)
-# Github     : https://github.com/KasRoudra
-# Contact    : https://m.me/KasRoudra
-# Description: MaxPhisher is a phishing tool in python
+# Copyright  : MohanRaj (2021-2022)
+# Github     : https://github.com/MMohanraj20
+# Contact    : https://m.me/Mohanraj43221
+# Description: web site hacking tool in python
 # Tags       : Multi phishing, login phishing, image phishing, video phishing, clipboard steal
 # 1st Commit : 08/9/2022
 # Language   : Python
 # Portable file/script
 # If you copy open source code, consider giving credit
-# Credits    : PyPhisher, VidPhisher, CamHacker, IP-Tracker, StromBreaker, Seeker
+# Credits    :...
 # Env        : #!/usr/bin/env python
 
 
 """
 MIT License
 
-Copyright (c) 2022 KasRoudra
+Copyright (c) 2022 MohanRaj
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
