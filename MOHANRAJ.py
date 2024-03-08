@@ -128,7 +128,7 @@ bcyan="\033[1;36m"
 white="\033[0;37m"
 nc="\033[00m"
 
-version="1.1"
+version="1.0.0"
 
 # Regular Snippets
 ask  =     f"{green}[{white}?{green}] {yellow}"
@@ -148,7 +148,7 @@ logo = f"""
 {red}|  |_|  |_|\___/|_| |_/_/   \_\_| \_|_| \_\/_/   \_\___/ 
 
 {yellow}{" "*31}             [{blue}v{version}{yellow}]
-{cyan}{" "*28}        [{blue}By {green}\x4b\x61\x73\x52\x6f\x75\x64\x72\x61{cyan}]
+{cyan}{" "*28}        
 """
 
 nr_help = f"""
@@ -227,7 +227,7 @@ cprint = Console().print
 # Get Columns of Screen
 columns = get_terminal_size().columns
 
-repo_url = "https://github.com/MMohanraj20/MOHANRAJ.py"
+repo_url = "https://github.com/MMohanraj20/MOHANRAJ-"
 sites_repo = "https://github.com/KasRoudra2/maxfiles"
 websites_url = f"{sites_repo}/archive/main.zip"
 repo_branch = "maxfiles-main"
